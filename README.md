@@ -1,4 +1,4 @@
-# aliengame2
+# Alien Game
 
 ## Project setup
 ```
